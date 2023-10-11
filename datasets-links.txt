@@ -1,0 +1,72 @@
+The official portal for European data
+https://data.europa.eu/data/
+
+OECD data
+https://data.oecd.org/ 
+
+NOAA Climate Data Online
+https://www.ncdc.noaa.gov/cdo-web/datasets
+
+NOAA global time series
+https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series
+
+US census bureau datasets
+https://www.census.gov/data/datasets.html
+
+United Nations datasets
+https://data.un.org/
+
+Monthly Bulletin of Statistics
+https://unstats.un.org/unsd/mbs/app/DataSearchTable.aspx
+
+World Bank data
+https://databank.worldbank.org/home
+
+International Monetary Fund
+https://data.imf.org/
+
+Ireland's Open Data Portal
+https://data.gov.ie/
+
+Government of Spain - Open Data
+https://datos.gob.es/en
+
+Istituto Nazionale di Statistica
+https://www.istat.it/it/dati-analisi-e-prodotti/banche-dati/statbase
+
+Open Data - France
+https://www.data.gouv.fr/fr/datasets/
+
+Office for National Statistics - UK
+https://www.ons.gov.uk/
+
+Inegi - Mexico
+http://en.www.inegi.org.mx/default.html
+
+INDEC - Argentina
+https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos
+
+Sloan Digital Sky Survey
+https://www.sdss.org/dr18/data_access/get_data/
+
+Planetary Data System
+https://pds-ppi.igpp.ucla.edu/search/index.jsp
+
+NASA Exoplant Archive
+https://exoplanetarchive.ipac.caltech.edu/docs/data.html
+
+Wikifact - dataset for training relationship classifiers
+https://github.com/google-research-datasets/wikifact
+
+Open Data Covid 19
+https://health.google.com/covid-19/open-data/raw-data
+
+Goemotions - 58k comments from Reddit
+https://github.com/google-research/google-research/tree/master/goemotions
+
+Cartoon Set - 10k and 100k random cartoons
+https://google.github.io/cartoonset/download.html
+
+
+
+
